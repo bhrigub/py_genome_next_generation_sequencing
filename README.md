@@ -1,4 +1,4 @@
-# py_genome_next_generation_sequencing
+# Genome Next Generation Sequencing
 
 Problem Statement: Calculate read coverage at positions of interest ("loci").
 
